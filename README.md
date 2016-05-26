@@ -11,7 +11,13 @@ Features
 Usage
 =====
 
-Just clone this repository and start your own Project powered by Webpack and React.
+1. Clone the repository and set your project name
+```git clone https://github.com/tobibechtold/react-webpack-starter.git myApp````
+
+2. Change the remote repository to your own repository
+```git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git```
+
+3. Edit the package.json to your preferences
 
 To start the webpack-dev-server just execute `npm start`
 
