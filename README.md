@@ -1,5 +1,5 @@
 # react-webpack-starter
-A simple starter-kit including react, webpack, hot module replacement and more.
+A simple starter-kit including react, webpack, hot module replacement and Babel ES2015 presets.
 
 Features
 ========
