@@ -12,7 +12,7 @@ Usage
 =====
 
 1. Clone the repository and set your project name
-```git clone https://github.com/tobibechtold/react-webpack-starter.git myApp````
+```git clone https://github.com/tobibechtold/react-webpack-starter.git myApp```
 2. Change the remote repository to your own repository
 ```git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git```
 3. Push everything to your new remote (you can verify the correct remote is being used by running `git remote -v`)
